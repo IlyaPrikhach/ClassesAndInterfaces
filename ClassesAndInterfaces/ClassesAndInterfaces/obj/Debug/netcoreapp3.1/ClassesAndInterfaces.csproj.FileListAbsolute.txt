@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.exe
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.deps.json
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.runtimeconfig.json
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.dll
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\bin\Debug\netcoreapp3.1\ClassesAndInterfaces.pdb
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\obj\Debug\netcoreapp3.1\ClassesAndInterfaces.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\obj\Debug\netcoreapp3.1\ClassesAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\obj\Debug\netcoreapp3.1\ClassesAndInterfaces.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\obj\Debug\netcoreapp3.1\ClassesAndInterfaces.dll
+C:\Users\user\Desktop\Epam\ClassesAndInterfaces\ClassesAndInterfaces\obj\Debug\netcoreapp3.1\ClassesAndInterfaces.pdb
